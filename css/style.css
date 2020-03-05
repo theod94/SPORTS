@@ -1,0 +1,38 @@
+body {
+margin: 0;
+padding: 0;
+background-image: url(../img/franchises.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
+
+.titre_accueil, .liens, .titre_blog {
+    color: white!important;
+    text-shadow: 1px 1px 10px black;
+}
+
+.bg-light {
+    background-color: darkgray!important;
+}
+
+.table {
+    background-color: white;
+}
+
+.nav-item a:hover {
+    color: darkred!important;
+}
+
+td, th {
+    text-align: center;
+}
+
+.copyright {
+    font-size: medium;
+    color: white;
+}
+
+.footer {
+    height: 150px;
+    background-color: darkgray;
+} 
