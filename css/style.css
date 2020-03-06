@@ -15,6 +15,15 @@ background-attachment: fixed;
     background-color: darkgray!important;
 }
 
+.unordered_list {
+    list-style: none;
+}
+
+.logo_team {
+    width: 10px;
+    height: 10px;
+}
+
 .table {
     background-color: white;
 }
